@@ -16,7 +16,7 @@ about:
 
 ---
 ## About Me
-Hello! I'm Pranjal Gaur, a second-year Computer Science student at IIT Gandhinagar. I'm enthusiastic about learning new skills, especially in the realms of Machine Learning and Web Development. 
+Hello! I'm Pranjal Gaur, a second-year undergraduate in the department of Computer Science and Engineering at IIT Gandhinagar. 
 
 ### My Interests
 
