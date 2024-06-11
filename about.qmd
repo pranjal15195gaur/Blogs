@@ -1,7 +1,7 @@
 ---
 title: "About"
 image: profile_image.jpg
-about:
+about: 
   template: trestles
   links:
     - icon: github
@@ -15,5 +15,16 @@ about:
       href: https://www.instagram.com/pranjal15195gaur/
 
 ---
+## About Me
+Hello! I'm Pranjal Gaur, a second-year Computer Science student at IIT Gandhinagar. I'm enthusiastic about learning new skills, especially in the realms of Machine Learning and Web Development. 
 
-About this blog
+### My Interests
+
+- **Machine Learning:** I am deeply passionate about the field of Machine Learning and its applications in various domains.
+  
+- **Web Development:** I enjoy exploring the world of web development, from frontend design to backend functionality, and everything in between.
+
+### What You'll Find Here
+
+On this blog, I'll be sharing my journey as I delve deeper into these areas of interest. You can expect to find tutorials, project updates, and reflections on my experiences.
+
